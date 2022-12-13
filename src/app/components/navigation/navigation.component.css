@@ -1,0 +1,15 @@
+mat-toolbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0px 64px;
+}
+a{
+    text-decoration: none;
+}
+.active-link{
+    color: white;
+}
+span{
+    margin-left: 24px;
+}
